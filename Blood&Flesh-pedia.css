@@ -1,0 +1,185 @@
+body{
+    padding:0px;
+    margin:0px;
+    font-family:sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+ header{
+    border: 1px solid none;
+    height:100px;
+    margin:2px 20px 0px 20px;
+  
+ }
+header a{
+  display:inline;
+   text-decoration: none;
+}
+
+.menu{
+ float:left;
+ margin:15px 0px 0px 30px;
+}
+
+.wiki{
+    float:left;
+    margin:0px 10px 0px 30px;
+}
+
+.wiki-text{
+    display: inline;
+    float:left;
+}
+
+.search{
+   float:left;
+   width: 400px;
+   height: 25px;
+   margin:20px 50px 0px 80px;
+}
+
+.create{
+    float:left;
+    margin:20px 0px 0px 400px;
+    
+}
+
+
+.Login{
+    float:left;
+    margin:20px 0px 0px 10px;
+}
+
+.dot{
+    float:right;
+    margin:20px 40px 0px 0px;
+}
+
+.side{
+    display: inline;
+    margin-top:-20px;
+    margin-right:1200px;
+    float:left;
+    text-align:left;
+    height: 0px;
+    margin-left: 20px;
+}
+
+.side ul{
+    display: inline-block;
+    list-style: none;
+    line-height: 30px;
+   
+}
+
+.side ul li a{
+    text-decoration: none;
+   
+}
+.side ul li{
+    padding-left: 30px;
+}
+
+.side ul li a:hover{
+    text-decoration: underline;
+}
+
+.content{
+    display: inline;
+    float:right;
+    list-style: one;
+    margin-right: 20px;
+    width:1050px; 
+    margin-right:50px;  
+}
+
+.content-head{
+     margin-top:0px;
+}
+
+
+.head-first{
+    display:inline;
+}
+
+.head-first b{
+    display: inline;
+    float: left;
+    font-size:22px;
+    padding-left:0px;
+}
+
+.head-first a{
+    display:inline;
+    float:right;
+    padding-right:10px;
+}
+
+.head-second-left{
+    display: inline;
+}
+
+.head-second-left p{
+    display: inline;
+    padding-right:10px;
+}
+
+.head-second-right {
+    float:right; 
+}
+
+.head-second-right a{
+    padding:0px 5px;
+    text-decoration: none;
+}
+.head-down p{
+    display: inline;
+}
+.head-down a{
+    float:right;
+}
+.encyclopaedia-para{
+    padding-top:10px;
+    float: left;
+    display: inline;
+    width:710px;
+}
+.para1{
+    display:inline;
+    margin-left: 40px;
+}
+
+.encyclopedia-img {
+    float:right;
+    display: inline;
+    margin-top:20px;
+}
+
+
+.Entymology{
+    float:left;
+    width:790px;
+    display:inline;
+    margin-top:20px;
+}
+
+.entymology-img{
+    float:right;
+    display: inline;
+    margin:20px 0px 0px 0px;
+}
+
+.characteristics{
+    float:left;
+    width:auto;
+    display:inline;
+}
+
+.full-scrn{
+    float:right;
+    margin:0px 15px 15px 1200px ;
+    
+}
+/* git stash */
